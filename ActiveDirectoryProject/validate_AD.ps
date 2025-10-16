@@ -1,0 +1,11 @@
+#Get list of AD users
+Get-AdUser -Filter * -Properties EmailAddress, Title, DistinguishedName | Select-Object Name, EmailAddress, Title, DistinguishedName |Format-Table
+
+#Get list of AD groups
+Get-AdGroup -Filter * | Select-Object Name, GroupScope, GroupCategory | Format-Table
+
+# Get list of AD computers
+Get-ADComputer -Filter * -Properties OperatingSystem | Select-Object Name, OperatingSystem, SID, DNSHostName
+
+#Get list of all Group Policy rules and export to CSV file
+Get-GPO -All  | Where-Object {$_.Owner -eq "mydomain\administrator" -or $_.Owner -eq "mydomain\Jenna" -or $_.Owner -eq "mydomain\Domain Admins"} | export-csv -path "GPO_policies.csv" -Notypeinformation -Encoding UTF8

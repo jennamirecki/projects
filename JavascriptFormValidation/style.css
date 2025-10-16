@@ -1,0 +1,79 @@
+
+body {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.rainbow {
+    font-family: 'Pacifico';
+    font-size: 2rem;
+    font-weight:bold;
+    text-align: center;
+    
+    background: linear-gradient(
+        to right,
+        red 0%,
+        orange 5%, 
+        pink 16%,
+        yellow 30%, 
+        green 35%, 
+        blue 50%, 
+        indigo 70%, 
+        pink 80%,
+        violet 99%
+
+        );
+
+-webkit-background-clip: text;
+background-clip: text;
+
+color:transparent;
+
+text-shadow: 0 0 1px rgba(0,0,0,0,.1);
+
+}
+
+.form .row {
+
+    display: flex;
+    align-items: center;
+}
+
+
+.form input.error,.form select.error, .form input[type="date"].error{
+    border: 2px solid red !important;
+
+}
+
+
+.form label {
+        
+        width: 150px;
+        text-align: right;
+        
+        line-height: 29px;
+        vertical-align: middle;
+}
+.form select {
+        
+        width: auto;
+        text-align: left;
+       
+        
+        vertical-align: middle;
+}
+
+.form input[type="date"] {
+        
+        width: auto;
+        text-align: left;
+        
+        
+        vertical-align: middle;
+}
+
+.submit-row {
+
+    width:150px;
+    text-align: right;
+}

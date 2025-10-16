@@ -1,0 +1,46 @@
+$ErrorActionPreference="Stop"
+Import-Module ActiveDirectory
+
+
+#Create users from csv file
+$filepath= "C:\Users\jenna\Desktop\users.csv"
+$users= Import-CSV $filepath
+
+#check if user exists first
+ForEach ($user in $users) {
+if (-not (Get-ADUser -Filter "SamAccountName -eq '$($user.SamAccountName)'" -ErrorAction SilentlyContinue))  {
+
+New-ADUser -Name ($user.FirstName + " " + $user.LastName) -Surname $user.LastName -GivenName $user.FirstName -SamAccountName $user.SamAccountName -UserPrincipalName ($user.UserPrincipalName+"@mydomain.com") -AccountPassword (ConvertTo-SecureString "1234PASS$" -AsPlaintext -Force) -EmailAddress $user.Email -Title $user.Title -Path $user.OUPath -Enabled $true}
+}
+
+#Create new security groups
+
+if (-not(Get-ADgroup -Identity "NetworkAdmins" -ErrorAction SilentlyContinue)) {
+New-ADGroup -Name "NetworkAdmins" -GroupScope global -GroupCategory Security -Path "OU=MainUsers,OU=MainOffice,DC=mydomain,DC=com"
+}
+if (-not(Get-ADgroup -Identity "Employee" -ErrorAction SilentlyContinue)) {
+New-ADGroup -Name "Employee" -GroupScope global -GroupCategory Security -Path "OU=MainUsers,OU=MainOffice,DC=mydomain,DC=com"
+}
+if (-not(Get-ADgroup -Identity "NetworkShare" -ErrorAction SilentlyContinue)) {
+New-ADGroup -Name "NetworkShare" -GroupScope global -GroupCategory Security -Path "OU=MainUsers,OU=MainOffice,DC=mydomain,DC=com"
+}
+
+#Move new users to correct security group
+Add-ADGroupMember -Identity "NetworkAdmins" -Members "christhomas"
+Add-ADGroupMember -Identity "Employee" -Members "suesmith","joecrawley"
+Add-ADGroupMember -Identity "NetworkShare" -Members "suesmith","joecrawley","christhomas"
+
+#Create network share on FileServer 
+Invoke-Command -ComputerName "FileServer" -ScriptBlock {
+    New-Item -Path "C:\SharedFolder" -ItemType Directory -Force
+    New-SmbShare -Name "Myshare" -Path "C:\SharedFolder" -FullAccess "mydomain\NetworkShare"
+}-Credential(Get-Credential)
+
+#Move other computers in mydomain.com to MainComputers OU
+Get-ADComputer -Identity "PC1" | Move-ADObject -TargetPath "OU=MainComputers,OU=MainOffice,DC=mydomain,DC=com"
+Get-ADComputer -Identity "FileServer" | Move-ADObject -TargetPath "OU=MainComputers,OU=MainOffice,DC=mydomain,DC=com"
+
+#Create roaming profiles
+Foreach ($user in $users) {Set-ADUser -Identity $user.SamAccountName -ProfilePath "\\FILESERVER\\Myshare" }
+ 
+\\FileServer\Myshare\7zip.msi
