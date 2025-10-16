@@ -1,0 +1,101 @@
+---
+- name: Create TestUser1 on ACCT_Network and TestUser2 on MGMT_Network
+  hosts: testboxes
+  become: true
+  vars:
+    ansible_sudo_pass: "P@ssw0rd"
+  gather_facts: true
+  
+  tasks:
+    - name: Create TestUser1 on ACCT_Network with admin privileges
+      ansible.builtin.user:
+        name: TestUser1
+        state: present
+        groups: sudo
+        password: "{{'WGU123' | password_hash('sha512')}}"
+        append: true
+      when: ansible_host == "10.10.1.56"
+        
+    - name: Create TestUser2 on MGMT_Network with admin privileges
+      ansible.builtin.user:
+        name: TestUser2
+        state: present
+        groups: sudo
+        password: "{{'WGU123' | password_hash('sha512')}}"
+        append: yes
+      when: ansible_host == "10.10.1.57"
+- name: Create four Windows desktop users on User_Network
+  hosts: windows
+  tasks:
+    - name: Create DesktopUser1 on User_Network
+      ansible.windows.win_user:
+        name: DesktopUser1
+        password: WGU123
+        state: present
+        groups:
+         - Users
+         - Administrators
+      when: ansible_host == "10.10.1.35"
+    - name: Create DesktopUser2 on User_Network
+      ansible.windows.win_user:
+        name: DesktopUser2
+        password: WGU123
+        state: present
+        groups:
+         - Users
+         - Administrators
+      when: ansible_host == "10.10.1.36"
+    - name: Create DesktopUser3 on User_Network
+      ansible.windows.win_user:
+        name: DesktopUser3
+        password: WGU123
+        state: present
+        groups:
+         - Users
+         - Administrators
+      when: ansible_host == "10.10.1.43"
+    - name: Create DesktopUser4 on User_Network
+      ansible.windows.win_user:
+        name: DesktopUser4
+        password: WGU123
+        state: present
+        groups:
+         - Users
+         - Administrators
+      when: ansible_host == "10.10.1.29"
+     
+- name: Add Local-Admin user on switches
+  hosts: switches
+  gather_facts: false
+  tasks:
+   - name: Create Local-Admin user on switches
+     community.network.exos_config:
+       lines:
+         - create account admin Local-Admin WGU123
+       
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
