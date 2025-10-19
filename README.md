@@ -1,1 +1,1 @@
-This repository showcases hands-on projects in System Administration, Networking, Automation, Cybersecurity, Data Analysis, and Programming. It demonstrates practical skills using Python, JavaScript, HTML, CSS, PowerShell, Node.js, Ansible, and Cisco networking tools.
+This repository showcases hands-on projects in System Administration, Networking, Automation, Cybersecurity, Data Analysis, and Programming. It demonstrates practical skills using Python, JavaScript, HTML, CSS, PowerShell, Ansible, and Cisco networking tools.
