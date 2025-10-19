@@ -5,6 +5,8 @@ cols=(df1.columns).tolist()
 print(f"The properties of Contacts are: {", ".join(cols)}")
 print(f"There are {len(cols)} Contacts at Rita's Realty")
 
+
+#Tickets
 df2=pandas.read_csv(r"C:\Users\jenna\Documents\Cases__1.csv")
 #Tickets
 print(f"There are {len(df2)} tickets total for the IT support Department at Rita's Realty: {len(df2[df2["Status"]=="Open"])} open, {len(df2[df2["Status"]=="Closed"])} closed, {len(df2[df2["Status"]=="Escalated"])} escalated, and {len(df2[df2["Status"]=="On Hold"])} on hold")
