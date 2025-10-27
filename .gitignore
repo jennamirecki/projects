@@ -1,0 +1,6 @@
+/Vagrant_Ubuntu_Server/.vagrant/
+
+*.log
+*.vmdk
+*.db
+*.bak
