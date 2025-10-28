@@ -4,3 +4,7 @@
 *.vmdk
 *.db
 *.bak
+
+Vagrant_Ubuntu_Server/Vagrant_Ubuntu_Server_backup/.vagrant/
+*.vmdk
+*.log
