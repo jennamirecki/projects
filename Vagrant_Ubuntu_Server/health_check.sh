@@ -10,7 +10,6 @@ print_all() {
     echo "$1"
     echo "======================================================"
 }
-
 echo 
 echo "Report generated on $(date)"
 
@@ -61,7 +60,6 @@ if command -v sqlite3 >/dev/null 2>&1; then
     else    
         echo "Database does not exist at $db_path"
     fi
-
     
 else
     echo "sqlite3 not installed"
@@ -81,8 +79,6 @@ function verify_services() {
 }
 verify_services
 
-
-
 function filter_logs()
 #"${1:-err}" 1 means first argument paseed to function otherwise use err as default.”
 
@@ -101,7 +97,6 @@ function filter_logs()
     journalctl -u syslog --since $date -n 1
     echo "-----------------------------"
 }
-
 
 filter_logs info login 
 filter_logs warning failed

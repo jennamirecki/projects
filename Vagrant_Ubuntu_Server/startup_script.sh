@@ -34,8 +34,6 @@ function config_services() {
 }
 config_services
 
-
-
 #Create user with password and put it in sudo group
 USERNAME="jenna"
 PASSWORD="jr123"
@@ -48,7 +46,6 @@ if ! id $USERNAME &>/dev/null; then
 else
     echo "User $USERNAME already exists"
 fi
-
 
 #Configure sqlite and create database
 db_path="/home/$USERNAME/mydb.db"
@@ -68,7 +65,6 @@ chmod 600 "$db_path"
 
 #Configure the OpenSSH server to enable password authentication
 sed -i -E "s/^(#\s*)?PasswordAuthentication\s+.* yes/PasswordAuthentication yes/" /etc/ssh/sshd_config
-
 
 #Attempt SSH connection to server from localhost
 if systemctl is-active --quiet ssh; then
@@ -107,8 +103,6 @@ systemctl start rsyslog
 logger -p user.error "This is a test error message from a Bash script"
 logger -p user.info "This is a test info message from a Bash script"
 logger -p user.warning "This is a test warning message from a Bash script"
-
-
 
 #Configure SSH log rotation
 #Create new ssh log rotation file with following settings
