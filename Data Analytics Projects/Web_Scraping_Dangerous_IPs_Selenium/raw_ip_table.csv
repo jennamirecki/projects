@@ -1,0 +1,151 @@
+,IP Address,ASN,Hostname,Company Name,Last Reported Date,Country,Country Code,ISP,City,Latitude,Longitude
+1,45.78.218.113,AS1504,No Hostname,BYTEPLUS,2025-11-18T01:17:02+00:00,Singapore,SG,Byteplus Pte. Ltd.,Singapore,1.35208,103.82
+2,139.59.229.250,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:17:01+00:00,Singapore,SG,DIGITALOCEAN,Singapore,1.32123,103.695
+3,80.94.93.119,AS4789,No Hostname,UNMANAGED LTD,2025-11-18T01:17:01+00:00,United Kingdom,GB,Unmanaged LTD,Harrow,51.5875,-0.30236
+4,187.107.88.97,AS2857,bb6b5861.virtua.com.br,Claro NXT Telecomunicacoes Ltda,2025-11-18T01:17:01+00:00,Brazil,BR,Claro NXT Telecomunicacoes Ltda,São Bernardo do Campo,-23.695,-46.5616
+5,27.50.25.190,AS1311,ip-27-50-25-190.cepat.net.id,PT. Mora Telematika Indonesia,2025-11-18T01:17:01+00:00,Indonesia,ID,PT. Mora Telematika Indonesia,Jakarta,-6.20321,106.845
+6,201.46.112.136,AS5695,ip-static-201-46-112-136.ipinversa.es,11,2025-11-18T01:17:01+00:00,Spain,ES,Raiola Networks S.L.,Alcobendas,40.5395,-3.6456
+7,193.163.125.223,AS2112,poised.census.internet-measurement.com,Driftnet Ltd,2025-11-18T01:17:01+00:00,United Kingdom,GB,Driftnet Ltd,Leeds,53.8008,-1.54908
+8,43.133.254.75,AS1322,No Hostname,"Asia Pacific Network Information Center, Pty. Ltd.",2025-11-18T01:17:01+00:00,South Korea,KR,Shenzhen Tencent Computer Systems Company Limited,Seoul,37.5665,126.9779
+9,80.94.92.69,AS4789,No Hostname,TECHOFF SRV LIMITED,2025-11-18T01:17:01+00:00,The Netherlands,NL,Unmanaged LTD,Amsterdam,52.3676,4.90414
+10,194.226.49.149,AS4358,No Hostname,QWARTA LLC,2025-11-18T01:17:01+00:00,Russia,RU,LLC ZTV CORP,Moscow,55.7558,37.6172
+11,185.191.171.7,AS2093,7.bl.bot.semrush.com,SEMrush CY LTD,2025-11-18T01:17:00+00:00,United States,US,SEMrush CY LTD,Washington,38.9072,-77.0369
+12,113.164.66.10,AS4589,static.vnpt.vn,Vietnam Posts and Telecommunications Group,2025-11-18T01:17:00+00:00,Vietnam,VN,VietNam Post and Telecom Corporation,Hanoi,21.0184,105.8461
+13,85.133.250.80,AS1981,No Hostname,Pars Abr Toseeh Ertebatat LTD,2025-11-18T01:17:00+00:00,Iran,IR,Pars Abr Toseeh Ertebatat Company,Tehran,35.7219,51.3347
+14,23.94.28.176,AS3635,23-94-28-176-host.colocrossing.com,HostPapa,2025-11-18T01:17:00+00:00,United States,US,HostPapa,Buffalo,42.8864,-78.8784
+15,165.154.18.125,AS1353,No Hostname,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,2025-11-18T01:17:00+00:00,Japan,JP,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Tokyo,35.6893,139.6899
+16,45.142.193.18,AS2142,No Hostname,Limited Network LTD,2025-11-18T01:17:00+00:00,United Kingdom,GB,LLC Digital Network,London,51.5072,-0.127586
+17,66.132.153.134,AS3983,scanner-001.ch1.censys-scanner.com,"Censys, Inc.",2025-11-18T01:17:00+00:00,United States,US,"Censys, Inc.",Ann Arbor,42.2809,-83.7489
+18,20.65.193.152,AS8075,azpdss4ht8in.stretchoid.com,Microsoft Corporation,2025-11-18T01:16:59+00:00,United States,US,Microsoft Corporation,San Antonio,29.4167,-98.5
+19,185.220.101.2,AS6072,berlin01.tor-exit.artikel10.org,Artikel10 e.V.,2025-11-18T01:16:59+00:00,Germany,DE,Stiftung Erneuerbare Freiheit,Brandenburg,52.6171,13.1207
+20,202.51.214.99,AS1022,No Hostname,PT Kreasi Sejahtera Teknologi,2025-11-18T01:16:59+00:00,Indonesia,ID,PT. Sejahtera Globalindo,Jakarta,-6.17949,106.816
+21,125.20.16.22,AS9498,No Hostname,Bharti Televentures Limited A/c ABTS MP,2025-11-18T01:16:59+00:00,India,IN,BHARTI,Bengaluru,12.9753,77.591
+22,146.190.24.28,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:59+00:00,The Netherlands,NL,"DigitalOcean, LLC",Amsterdam,52.352,4.9392
+23,134.199.145.243,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:59+00:00,Australia,AU,"DigitalOcean, LLC",Sydney,-33.8978,151.1899
+24,170.238.160.20,AS2663,No Hostname,NCS-Fibra ( New Central Solutions ),2025-11-18T01:16:58+00:00,Brazil,BR,NCS-Fibra ( New Central Solutions ),Salvador,-12.8665,-38.4858
+25,193.46.255.7,AS4789,hostingmailto221.statics.servermail.org,UNMANAGED LTD,2025-11-18T01:16:58+00:00,United Kingdom,GB,Unmanaged LTD,Rushden,52.2999,-0.613313
+26,118.26.105.52,AS1353,No Hostname,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,2025-11-18T01:16:58+00:00,Brazil,BR,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,São Paulo,-23.5475,-46.6361
+27,23.94.27.110,AS3635,23-94-27-110-host.colocrossing.com,HostPapa,2025-11-18T01:16:58+00:00,United States,US,HostPapa,Buffalo,42.8864,-78.8784
+28,20.172.5.103,AS8075,No Hostname,Microsoft Corporation,2025-11-18T01:16:58+00:00,United States,US,Microsoft Corporation,Phoenix,33.448376,-112.074036
+29,92.118.39.86,AS4789,No Hostname,DMZHOST,2025-11-18T01:16:58+00:00,United States,US,Unmanaged LTD,Dallas,32.7797,-96.8022
+30,45.78.193.174,AS1504,No Hostname,BYTEPLUS,2025-11-18T01:16:57+00:00,Singapore,SG,Byteplus Pte. Ltd.,Singapore,1.35208,103.82
+31,161.35.7.114,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:57+00:00,United States,US,"DigitalOcean, LLC",North Bergen,40.7964,-74.0203
+32,125.76.228.194,AS4835,No Hostname,CHINANET Shanxi(SN) province network,2025-11-18T01:16:57+00:00,China,CN,China Telecom,Liuxiang,37.8734,112.563
+33,109.105.210.93,AS2185,zl-dfwc-us-gd9-wk102b.internet-census.org,ICG-ZEN-DFW,2025-11-18T01:16:57+00:00,United States,US,Zenlayer Inc,Dallas,32.7767,-96.797
+34,167.99.71.107,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:57+00:00,Singapore,SG,"DigitalOcean, LLC",Singapore,1.32123,103.695
+35,45.135.232.92,AS1989,No Hostname,Proton66 LLC,2025-11-18T01:16:57+00:00,Russia,RU,Proton66 OOO,St Petersburg,59.9417,30.3096
+36,195.178.110.201,AS4809,No Hostname,TECHOFF SRV LIMITED,2025-11-18T01:16:57+00:00,Andorra,AD,Techoff SRV Limited,Andorra la Vella,42.5063,1.52184
+37,201.243.82.126,AS8048,201-243-82-126.anz-00.rai.cantv.net,"CANTV Servicios, Venezuela",2025-11-18T01:16:57+00:00,Venezuela,VE,"CANTV Servicios, Venezuela",Santa Elena de Uairén,4.60226,-61.1102
+38,185.243.98.11,AS4869,free.ntup.net,Rices Privately owned enterprise,2025-11-18T01:16:57+00:00,United States,US,Rices Privately owned enterprise,Rockland,41.0991,-74.008
+39,45.78.217.85,AS1504,No Hostname,BYTEPLUS,2025-11-18T01:16:56+00:00,Singapore,SG,Byteplus Pte. Ltd.,Singapore,1.35208,103.82
+40,134.209.117.17,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:56+00:00,United States,US,"DigitalOcean, LLC",North Bergen,40.7964,-74.0203
+41,132.145.213.106,AS3189,No Hostname,Oracle Public Cloud,2025-11-18T01:16:56+00:00,United States,US,Oracle Corporation,Ashburn,39.018,-77.539
+42,121.56.83.105,AS4134,105.83.56.121.broad.wh.nm.dynamic.163data.com.cn,CHINANET neimeng province network,2025-11-18T01:16:56+00:00,China,CN,Neimeng Network of ChinaTelecom,Wuhai,39.6552,106.794
+43,122.165.60.231,AS2456,abts-tn-static-231.60.165.122.airtelbroadband.in,"ABTS Tamilnadu,",2025-11-18T01:16:56+00:00,India,IN,BHARTI,Chennai,13.0895,80.2739
+44,217.182.213.59,AS1627,o48.scanner.modat.io,OVH SAS,2025-11-18T01:16:56+00:00,France,FR,OVH SAS,Gravelines,50.9871,2.12554
+45,180.178.94.73,AS4572,No Hostname,PT Widya Intersat Nusantara,2025-11-18T01:16:55+00:00,Indonesia,ID,PT Widya Intersat Nusantara,Kartasura,-7.55194,110.738
+46,45.33.94.76,AS6394,dvin.scan.bufferover.run,Linode,2025-11-18T01:16:55+00:00,United States,US,"Akamai Technologies, Inc.",Cedar Knolls,40.8229,-74.4592
+47,184.105.139.113,AS6939,scan-03j.shadowserver.org,"The Shadowserver Foundation, Inc.",2025-11-18T01:16:55+00:00,United States,US,Hurricane Electric LLC,Frisco,33.1494,-96.828
+48,20.64.105.238,AS8075,azpdsgd9sbi1.stretchoid.com,Microsoft Corporation,2025-11-18T01:16:54+00:00,United States,US,Microsoft Corporation,San Antonio,29.4167,-98.5
+49,165.154.48.206,AS1353,No Hostname,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,2025-11-18T01:16:54+00:00,Indonesia,ID,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Jakarta,-6.2114,106.8446
+50,217.131.34.180,AS3498,host-217-131-34-180.reverse.superonline.net,Superonline Iletisim Hizmetleri A.S.,2025-11-18T01:16:54+00:00,Türkiye,TR,Superonline Iletisim Hizmetleri A.S.,Istanbul,41.0146,28.9532
+51,91.202.233.33,AS2005,No Hostname,PROSPERO OOO,2025-11-18T01:16:54+00:00,Turkmenistan,TM,Prospero OOO,Ashgabat,37.95,58.3833
+52,111.248.222.48,AS3462,111-248-222-48.dynamic-ip.hinet.net,"Chunghwa Telecom Co.,Ltd.",2025-11-18T01:16:54+00:00,Taiwan,TW,"Chunghwa Telecom Co., Ltd.",Taipei,25.053,121.5259
+53,124.156.203.109,AS1322,No Hostname,Asia Pacific Network Information Centre,2025-11-18T01:16:54+00:00,Singapore,SG,Tencent Cloud Computing (Beijing) Co,Singapore,1.35208,103.82
+54,45.156.131.23,AS2185,zl-laxd-us-gd9-wk101b.internet-census.org,ICG-2-ZEN-LAX,2025-11-18T01:16:53+00:00,United States,US,Zenlayer Inc,Los Angeles,34.0549,-118.243
+55,45.232.73.84,AS2672,No Hostname,TELEFONARNET TELECOMUNICACOES,2025-11-18T01:16:53+00:00,Brazil,BR,Telefonarnet Telecomunicacoes,Londrina,-23.3128,-51.1596
+56,45.119.80.10,AS1313,No Hostname,Long Van System Solution JSC,2025-11-18T01:16:53+00:00,Vietnam,VN,Long Van System Solution,Quận Một,10.7892,106.711
+57,103.139.193.37,AS1360,contactorutempresa1.mailinforme.com,PT. Halto Petirah Angrowangi,2025-11-18T01:16:53+00:00,Indonesia,ID,PT Cloud Hosting Indonesia,Jakarta,-6.23846,106.824
+58,52.14.58.0,AS1650,scan.cypex.ai,Amazon Technologies Inc.,2025-11-18T01:16:53+00:00,United States,US,"Amazon.com, Inc.",Dublin,40.0992,-83.1141
+59,45.140.17.124,AS1989,No Hostname,Proton66 LLC,2025-11-18T01:16:52+00:00,Russia,RU,Proton66 OOO,St Petersburg,59.9417,30.3096
+60,115.190.28.207,AS1377,No Hostname,"Beijing Volcano Engine Technology Co., Ltd.",2025-11-18T01:16:52+00:00,China,CN,GWBN-WUHAN's IP,Beijing,39.9042,116.407
+61,41.73.167.46,AS3696,No Hostname,WIA Tanzania,2025-11-18T01:16:52+00:00,Tanzania,TZ,WIA Tanzania,Tabora,-5.0195,32.8265
+62,2.57.121.25,AS4789,hosting25.tronicsat.com,UNMANAGED LTD,2025-11-18T01:16:52+00:00,United Kingdom,GB,Unmanaged LTD,Rushden,52.2999,-0.613313
+63,64.227.97.118,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:52+00:00,United States,US,"DigitalOcean, LLC",Santa Clara,37.3931,-121.962
+64,89.255.244.238,AS4121,No Hostname,Advania Sverige AB,2025-11-18T01:16:52+00:00,Sweden,SE,Advania Sverige AB,Bromma,59.35,17.9167
+65,71.6.147.254,AS1043,tesla.census.shodan.io,"CariNet, Inc.",2025-11-18T01:16:52+00:00,United States,US,"CariNet, Inc.",San Diego,32.8296,-117.134
+66,154.91.170.52,AS2125,No Hostname,BitCommand LLC,2025-11-18T01:16:52+00:00,Germany,DE,BitCommand LLC,Frankfurt am Main,50.1109,8.68213
+67,185.224.128.19,AS4987,No Hostname,Alsycon B.V.,2025-11-18T01:16:51+00:00,The Netherlands,NL,Alsycon B.V.,Amsterdam,52.3759,4.8975
+68,68.183.234.214,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:50+00:00,Singapore,SG,"DigitalOcean, LLC",Singapore,1.32123,103.695
+69,64.225.0.78,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:50+00:00,United States,US,"DigitalOcean, LLC",Clifton,40.8364,-74.1403
+70,170.64.160.67,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:50+00:00,Australia,AU,"DigitalOcean, LLC",Sydney,-33.8978,151.1899
+71,185.183.103.121,AS1303,185-183-103-121.xdsl.5gdsl.com,5G Communications Limited,2025-11-18T01:16:50+00:00,United Kingdom,GB,Zen Internet Ltd,Oxford,51.7283,-1.2406
+72,5.187.35.21,AS2062,No Hostname,Amarutu Technology Ltd,2025-11-18T01:16:50+00:00,The Netherlands,NL,Amarutu Technology Ltd,Amsterdam,52.3676,4.90414
+73,193.32.162.145,AS4789,No Hostname,UNMANAGED LTD,2025-11-18T01:16:50+00:00,The Netherlands,NL,Unmanaged LTD,Amsterdam,52.3676,4.90414
+74,134.209.213.171,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:50+00:00,United States,US,"DigitalOcean, LLC",North Bergen,40.7964,-74.0203
+75,3.84.119.195,AS1461,ec2-3-84-119-195.compute-1.amazonaws.com,Amazon Data Services Northern Virginia,2025-11-18T01:16:50+00:00,United States,US,Amazon Technologies Inc.,Ashburn,39.0438,-77.4874
+76,20.44.69.26,AS8075,No Hostname,Microsoft Corporation,2025-11-18T01:16:49+00:00,United States,US,Microsoft Corporation,Boydton,36.677696,-78.37471
+77,122.117.102.125,AS3462,122-117-102-125.hinet-ip.hinet.net,"Chunghwa Telecom Co.,Ltd.",2025-11-18T01:16:49+00:00,Taiwan,TW,"Chunghwa Telecom Co., Ltd.",Taichung,24.144,120.6844
+78,143.198.76.96,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:49+00:00,United States,US,"DigitalOcean, LLC",Santa Clara,37.3931,-121.962
+79,156.232.94.58,AS1353,No Hostname,UCLOUD INFORMATION TECHNOLOGY HK LIMITEDIMITED,2025-11-18T01:16:49+00:00,Hong Kong,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Hong Kong,22.3193,114.169
+80,44.203.183.27,AS1461,ec2-44-203-183-27.compute-1.amazonaws.com,Amazon Data Services Northern Virginia,2025-11-18T01:16:49+00:00,United States,US,Amazon.com,Ashburn,39.0438,-77.4874
+81,62.60.130.45,AS2159,No Hostname,CIPHER OPERATIONS DOO BEOGRAD - NOVI BEOGRAD,2025-11-18T01:16:49+00:00,Iran,IR,Cipher Operations DOO Beograd - Novi Beograd,Tehran,35.6824,51.4158
+82,146.190.31.117,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:49+00:00,The Netherlands,NL,"DigitalOcean, LLC",Amsterdam,52.352,4.9392
+83,193.46.255.244,AS4789,hostingmailto161.statics.servermail.org,UNMANAGED LTD,2025-11-18T01:16:48+00:00,United Kingdom,GB,Unmanaged LTD,Rushden,52.2999,-0.613313
+84,3.92.213.133,AS1461,ec2-3-92-213-133.compute-1.amazonaws.com,Amazon Data Services Northern Virginia,2025-11-18T01:16:48+00:00,United States,US,Amazon Technologies Inc.,Ashburn,39.0438,-77.4874
+85,111.198.221.98,AS4808,No Hostname,China Unicom Beijing province network,2025-11-18T01:16:48+00:00,China,CN,China Unicom Beijing Province Network,Beijing,39.911,116.395
+86,180.94.75.146,AS5533,No Hostname,GCN/DCN Networks,2025-11-18T01:16:48+00:00,Afghanistan,AF,Government Communications Network,Kabul,34.5193,69.1762
+87,78.128.112.74,AS2086,ip-112-74.4vendeta.com,Lir.bg EOOD,2025-11-18T01:16:48+00:00,Bulgaria,BG,noc@dotdash.host,Sopot,42.6539,24.7548
+88,45.142.193.90,AS2142,No Hostname,Limited Network LTD,2025-11-18T01:16:48+00:00,United Kingdom,GB,LLC Digital Network,London,51.5072,-0.127586
+89,45.130.148.125,AS3568,No Hostname,BEST INTERNET SOLUTION XK,2025-11-18T01:16:47+00:00,Uzbekistan,UZ,Best Internet Solution XK,Tashkent,41.2615,69.2177
+90,64.31.40.162,AS4647,s25.hosterpk.com,"Limestone Networks, Inc.",2025-11-18T01:16:47+00:00,United States,US,Limestone Networks,Miami,25.7701,-80.1928
+91,14.103.198.81,AS4811,No Hostname,"Beijing Volcano Engine Technology Co., Ltd.",2025-11-18T01:16:47+00:00,China,CN,BITNET,Beijing,39.9042,116.407
+92,159.65.185.221,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:47+00:00,United States,US,"DigitalOcean, LLC",Clifton,40.8364,-74.1403
+93,206.168.34.135,AS3983,unused-space.coop.net,"Censys, Inc.",2025-11-18T01:16:47+00:00,United States,US,"Censys, Inc.",Chicago,41.8781,-87.6298
+94,79.110.54.108,AS9009,No Hostname,M247 Ltd Las Vegas,2025-11-18T01:16:47+00:00,United States,US,M247 Europe SRL,Sauk Village,41.4884,-87.5675
+95,112.145.109.23,AS1785,No Hostname,LG POWERCOMM,2025-11-18T01:16:47+00:00,South Korea,KR,LG POWERCOMM,Yeonsu-gu,37.3736,126.6555
+96,81.30.107.15,AS2159,No Hostname,Atis Omran Sevin PSJ,2025-11-18T01:16:47+00:00,United Kingdom,GB,Cipher Operations DOO Beograd - Novi Beograd,London,51.5072,-0.127586
+97,23.95.37.90,AS3635,mail4.auditcoy.org,"New Wave NetConnect, LLC",2025-11-18T01:16:47+00:00,United States,US,HostPapa,Dallas,32.7797,-96.8022
+98,185.200.116.76,AS9009,no-mans-land.m247.com,M247 LTD Singapore Infrastructure,2025-11-18T01:16:47+00:00,Singapore,SG,M247 Europe SRL,Singapore,1.29645,103.791
+99,185.50.38.171,AS6117,static.171.38.50.185.clients.irandns.com,Green Web Samaneh Novin Network,2025-11-18T01:16:46+00:00,Iran,IR,Green Web Samaneh Novin PJSC,Mashhad,36.3006,59.5904
+100,152.32.218.244,AS1353,No Hostname,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,2025-11-18T01:16:46+00:00,Singapore,SG,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Singapore,1.35208,103.82
+101,61.130.162.246,AS4134,No Hostname,CHINANET-ZJ Jiaxing node network,2025-11-18T01:16:46+00:00,China,CN,Chinanet,Yanguan,30.4043,120.545
+102,134.199.167.173,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:45+00:00,Australia,AU,"DigitalOcean, LLC",Sydney,-33.8978,151.1899
+103,79.104.0.82,AS3216,No Hostname,111250 Russia SOVINTEL/EDN,2025-11-18T01:16:45+00:00,Russia,RU,EDN SOVINTEL,Moscow,55.7569,37.7007
+104,66.132.153.158,AS3983,scanner-101.ch1.censys-scanner.com,"Censys, Inc.",2025-11-18T01:16:45+00:00,United States,US,"Censys, Inc.",Ann Arbor,42.2809,-83.7489
+105,179.61.137.20,AS1467,No Hostname,NEAROUTE - HONG KONG,2025-11-18T01:16:45+00:00,United States,US,WHG Hosting Services Ltd,Buffalo,42.8864,-78.8784
+106,89.67.246.166,AS9141,89-67-246-166.dynamic.play.pl,P4 Sp. z o.o.,2025-11-18T01:16:45+00:00,Poland,PL,UPC.pl,Swidnica,50.8381,16.49
+107,3.128.157.183,AS1650,ec2-3-128-157-183.us-east-2.compute.amazonaws.com,Amazon Technologies Inc.,2025-11-18T01:16:45+00:00,United States,US,"Amazon.com, Inc.",Dublin,40.0992,-83.1141
+108,38.226.118.0,AS2736,No Hostname,OAC TECNOLOGIA LTDA,2025-11-18T01:16:45+00:00,Brazil,BR,OAC TECNOLOGIA EIRELI,Ourilândia do Norte,-7.5956,-51.432
+109,46.105.40.140,AS1627,crawl-85trf0.mj12bot.com,OVH SAS,2025-11-18T01:16:45+00:00,France,FR,OVH SAS,Roubaix,50.6924,3.20113
+110,193.32.162.198,AS4789,No Hostname,UNMANAGED LTD,2025-11-18T01:16:44+00:00,The Netherlands,NL,Unmanaged LTD,Amsterdam,52.3676,4.90414
+111,152.32.135.139,AS1353,No Hostname,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,2025-11-18T01:16:44+00:00,Hong Kong,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Hong Kong,22.3193,114.169
+112,38.19.153.252,AS2784,No Hostname,Win Empresas S.A.C.,2025-11-18T01:16:43+00:00,Peru,PE,Cogent Communications,Miraflores,-12.1154,-77.0335
+113,198.144.189.87,AS3635,198-144-189-87-host.colocrossing.com,HostPapa,2025-11-18T01:16:43+00:00,United States,US,HostPapa,Buffalo,42.8864,-78.8784
+114,20.169.105.213,AS8075,azpdwggixp25.stretchoid.com,Microsoft Corporation,2025-11-18T01:16:42+00:00,United States,US,Microsoft Corporation,Phoenix,33.448376,-112.074036
+115,175.107.32.186,AS2388,No Hostname,National Telecommunication Corporation,2025-11-18T01:16:42+00:00,Pakistan,PK,National Telecommunication Corporation,Islamabad,33.7295,73.089
+116,45.86.153.248,AS2009,a.tor-exit.fra.kieken.net,Lyratris Limited,2025-11-18T01:16:41+00:00,Germany,DE,Lyratris Limited,Frankfurt am Main,50.1103,8.7147
+117,20.163.60.142,AS8075,azpdwsn1lis8.stretchoid.com,Microsoft Corporation,2025-11-18T01:16:41+00:00,United States,US,Microsoft Corporation,Phoenix,33.448376,-112.074036
+118,103.123.53.88,AS1406,No Hostname,YOTTA NETWORK SERVICES PRIVATE LIMITED,2025-11-18T01:16:41+00:00,India,IN,Yotta Network Services Private Limited,Mumbai,19.1189,72.9119
+119,45.155.164.138,AS2164,vm131861.chpokvanok39.serv-dns.ru,NKtelecom INC,2025-11-18T01:16:41+00:00,France,FR,Startia Operadora,Paris,48.864,2.331
+120,24.122.245.67,AS1129,24-122-245-67.resi.cgocable.ca,Cogeco Connexion inc,2025-11-18T01:16:41+00:00,Canada,CA,Cogeco Connexion inc,Saint-Hyacinthe,45.632,-72.9403
+121,184.105.139.112,AS6939,scan-02k.shadowserver.org,"The Shadowserver Foundation, Inc.",2025-11-18T01:16:41+00:00,United States,US,Hurricane Electric LLC,Frisco,33.1494,-96.828
+122,70.79.120.248,AS6327,s01060030f43b0098.vn.shawcable.net,Shaw Communications,2025-11-18T01:16:41+00:00,Canada,CA,Shaw Communications Inc.,Whistler,50.1205,-122.9543
+123,117.50.245.253,AS2372,No Hostname,Shanghai UCloud Information Technology Company Limited,2025-11-18T01:16:41+00:00,China,CN,UCLOUD,Beijing,39.9042,116.407
+124,139.19.117.197,AS680 ,inet-research-scan-3.mpi-inf.mpg.de,Max-Planck-Institut fuer Informatik,2025-11-18T01:16:40+00:00,Germany,DE,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,Saarbrücken,49.2293,6.9994
+125,216.197.201.42,AS803 ,216-197-201-42.estv.hsdb.sasknet.sk.ca,SaskTel Wide Area Network Engineering Center,2025-11-18T01:16:40+00:00,Canada,CA,Saskatchewan Telecommunications,Estevan,49.1299,-102.9772
+126,198.199.73.102,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:39+00:00,United States,US,"DigitalOcean, LLC",North Bergen,40.7964,-74.0203
+127,13.89.124.219,AS8075,azpdcsl3sa4k.stretchoid.com,Microsoft Corporation,2025-11-18T01:16:39+00:00,United States,US,Microsoft Corporation,Des Moines,41.5908,-93.6208
+128,193.46.255.99,AS4789,hostingmailto251.statics.servermail.org,UNMANAGED LTD,2025-11-18T01:16:39+00:00,United Kingdom,GB,Unmanaged LTD,Rushden,52.2999,-0.613313
+129,143.198.156.29,AS1406,loteria.tuxpc.net,"DigitalOcean, LLC",2025-11-18T01:16:39+00:00,United States,US,"DigitalOcean, LLC",Santa Clara,37.3931,-121.962
+130,184.105.139.78,AS6939,scan-04b.shadowserver.org,"The Shadowserver Foundation, Inc.",2025-11-18T01:16:39+00:00,United States,US,Hurricane Electric LLC,Frisco,33.1494,-96.828
+131,90.173.78.90,AS1247,90.pool90-173-78.static.orange.es,Orange Espagne SA,2025-11-18T01:16:39+00:00,Spain,ES,Uni2,Madrid,40.412,-3.6871
+132,164.92.159.228,AS1406,No Hostname,"DigitalOcean, LLC",2025-11-18T01:16:39+00:00,The Netherlands,NL,"DigitalOcean, LLC",Amsterdam,52.352,4.9392
+133,164.177.31.66,AS5410,static-csq-cds-031066.business.bouyguestelecom.com,Bouygues Telecom SA,2025-11-18T01:16:39+00:00,France,FR,BOUYGUES Telecom ISP,Paris,48.8575,2.35138
+134,197.5.145.102,AS3279,No Hostname,ATI - Agence Tunisienne Internet,2025-11-18T01:16:38+00:00,Tunisia,TN,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),Tunis,36.8244,10.1763
+135,14.18.113.233,AS5846,No Hostname,CHINANET Guangdong province network,2025-11-18T01:16:38+00:00,China,CN,CHINANET Guangdong province network,Guangzhou,23.1181,113.2539
+136,58.47.123.163,AS4134,No Hostname,CHINANET Hunan province network,2025-11-18T01:16:38+00:00,China,CN,Chinanet,Qingyuan,28.1142,112.983
+137,200.175.201.167,AS1888,200.175.201.167.dynamic.dialup.gvt.net.br,TELEFÔNICA BRASIL S.A,2025-11-18T01:16:37+00:00,Brazil,BR,Vivo,Porto Alegre,-30.0328,-51.2302
+138,152.32.217.164,AS1353,No Hostname,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,2025-11-18T01:16:37+00:00,Singapore,SG,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Singapore,1.35208,103.82
+139,116.193.191.209,AS1360,ip116-193-191-209.cloudhost.web.id,PT Cloud Hosting Indonesia,2025-11-18T01:16:37+00:00,Indonesia,ID,PT Cloud Hosting Indonesia,Cicurug,-6.84206,106.724
+140,101.36.107.228,AS1353,No Hostname,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,2025-11-18T01:16:37+00:00,Hong Kong,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Hong Kong,22.3193,114.169
+141,81.43.3.1,AS3352,1.red-81-43-3.staticip.rima-tde.net,Telefonica de Espana SAU,2025-11-18T01:16:37+00:00,Spain,ES,Telefonica de Espana SAU,Cáceres,39.4776,-6.3798
+142,1.214.197.163,AS3786,No Hostname,LG DACOM Corporation,2025-11-18T01:16:37+00:00,South Korea,KR,LG DACOM Corporation,Seoul,37.5658,126.978
+143,185.164.73.248,AS6063,No Hostname,ParsPack.com,2025-11-18T01:16:37+00:00,Iran,IR,Pars Parva System LLC,Tehran,35.7733,51.3931
+144,20.169.107.54,AS8075,azpdwgichq9z.stretchoid.com,Microsoft Corporation,2025-11-18T01:16:37+00:00,United States,US,Microsoft Corporation,Phoenix,33.448376,-112.074036
+145,115.231.78.11,AS5846,No Hostname,"Hangzhou Duchuang Keji Co.,Ltd",2025-11-18T01:16:37+00:00,China,CN,Chinanet,Hangzhou,30.2742,120.155
+146,203.106.164.74,AS4788,gbk-164-74.tm.net.my,TM TECHNOLOGY SERVICES SDN. BHD.,2025-11-18T01:16:37+00:00,Malaysia,MY,TMnet,Shah Alam,3.1071,101.5526
+147,66.240.236.119,AS1043,census6.shodan.io,"CariNet, Inc.",2025-11-18T01:16:36+00:00,United States,US,"CariNet, Inc.",San Diego,32.8296,-117.134
+148,103.146.202.174,AS1360,No Hostname,PT Cloud Hosting Indonesia,2025-11-18T01:16:35+00:00,Indonesia,ID,PT Cloud Hosting Indonesia,Cicurug,-6.84206,106.724
+149,173.249.50.59,AS5116,ip-59-50-249-173.static.contabo.net,Contabo GmbH,2025-11-18T01:16:35+00:00,France,FR,Contabo GmbH,Lauterbourg,48.9742,8.1851
+150,138.197.118.33,AS1406,17eb4672b3.research-scanner.com,"DigitalOcean, LLC",2025-11-18T01:16:35+00:00,United States,US,"DigitalOcean, LLC",Clifton,40.8364,-74.1403
